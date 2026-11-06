@@ -1,5 +1,23 @@
-## Hi there 👋
+## CIAO! 👋
 
+Questo è il mio profilo 
+
+## 👤 Qualcosa su di me
+
+Sto imparando ad usare github
+
+## ❤️​ Le mie passioni
+
+- Calcio
+- Videogiochi
+- Paralre
+
+## 🪪 Tecnologie ed esperienze
+
+a scuola ho imparato ad usare:
+
+- Html
+- Linguaggio c
 <!--
 **MattiaBertoletti10/MattiaBertoletti10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
