@@ -18,6 +18,12 @@ a scuola ho imparato ad usare:
 
 - Html
 - Linguaggio c
+
+## 🧠 Cosa potrei insegnare ai miei compagni
+
+- Le basi del linguaggio c
+- Insegnargli videogiochi
+- Le basi di html
 <!--
 **MattiaBertoletti10/MattiaBertoletti10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
